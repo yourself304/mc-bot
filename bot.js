@@ -1,8 +1,8 @@
 const bedrock = require('bedrock-protocol')
 function createBot() {
   const client = bedrock.createClient({
-    host: '你的Aternos服务器IP.aternos.me', 
-    port: 19132,                            
+    host: 'cheatin.aternos.me', 
+    port: 24117,                            
     username: 'AntiAFK_Bot',               
     offline: true                          
   })
